@@ -10,12 +10,12 @@
     "when": "editorTextFocus && editorHasSelection"
   },
   {
-    "key": "shift+ctrl+up",
-    "command": "cursorStartSelect",
+    "key": "shift+alt+up",
+    "command": "cursorHomeSelect",
     "when": "editorTextFocus && !editorHasSelection"
   },
   {
-    "key": "shift+ctrl+up",
+    "key": "shift+alt+up",
     "command": "cursorUpSelect",
     "when": "editorTextFocus && editorHasSelection"
   },
