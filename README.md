@@ -1,6 +1,6 @@
 # nova-vscode-keybindings
 
-Keybindings to make Microsoft Visual Studio Code (and VSCode offshoots like Cursor and Zed) to behave like Panic's Nova. 
+Keybindings to make [Microsoft Visual Studio Code](https://nova.app) (and VSCode offshoots like [Cursor](https://www.cursor.com/en) and [Zed](https://zed.dev)) to behave like [Panic's Nova](https://nova.app). 
 
 ### Directions
 * Open your app 
